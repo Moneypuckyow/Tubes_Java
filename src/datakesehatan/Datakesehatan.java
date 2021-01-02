@@ -5,16 +5,13 @@
  */
 package datakesehatan;
 
-/**
- *
- * @author alexl
- */
-
-public class Datakesehatan {
+ public class Datakesehatan {
 
     /**
      * @param args the command line arguments
      */
+    
+    
     public static void main(String[] args) {
         // TODO code application logic here
         MainScreen mr=new MainScreen();
